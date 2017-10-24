@@ -12,6 +12,7 @@ public class DemoApplication {
 		System.err.println("2");
 		System.err.println("develop");
 		System.err.println("develop-1");
+		System.err.println("moonsinfo");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
