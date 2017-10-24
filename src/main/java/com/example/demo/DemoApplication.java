@@ -10,6 +10,7 @@ public class DemoApplication {
 
 		System.err.println("1");
 		System.err.println("2");
+		System.err.println("develop");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
