@@ -15,6 +15,7 @@ public class DemoApplication {
 		System.err.println("master");
 		System.err.println("moonsinfo");
 		System.err.println("moonsinfo-1");
+		System.err.println("moonsinfo-2");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
